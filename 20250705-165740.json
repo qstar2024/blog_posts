@@ -1,0 +1,7 @@
+{
+  "create_time": "2025-07-05T16:57:40-04:00",
+  "last_edit_time": "2025-07-05T16:57:40-04:00",
+  "estimate_read_time": 1,
+  "subject": "Why Markdown?",
+  "body": "Markdown is **lightweight**, readable in raw form, and converts to HTML effortlessly.\n\n```js\nconsole.log('Hello markdown!');\n```\n\nWrite once, publish anywhere." 
+}
