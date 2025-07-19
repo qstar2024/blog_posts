@@ -1,11 +1,9 @@
 {
   "create_time": "2025-07-19T08:49:02-04:00",
-  "last_edit_time": "2025-07-19T08:49:02-04:00",
-  "estimate_read_time": 1,
+  "last_edit_time": "2025-07-19T10:58:35-04:00",
+  "estimate_read_time": 6,
   "subject": "Rethinking Randomness and Predictions: Ancient Chinese Divination Meets Modern Quant",
-  "body": "# Rethinking Randomness and Predictions: Ancient Chinese Divination Meets Modern Quant
-
-In the realm of quantitative finance, randomness is more than a mathematical abstraction—it's the heartbeat of every model, the pulse behind every simulation. From stochastic gradient descent in deep learning to Monte Carlo simulations for risk estimation, randomness underpins much of modern financial modeling. And yet, for all our reliance on it, our tools for generating randomness remain curiously artificial—algorithms designed to simulate chance but never quite reaching its essence. As the frontier of computing begins to tap into quantum phenomena and even astronomical noise, a provocative question emerges: What if our models could draw their randomness not from code, but from the cosmos?
+  "body": "In the realm of quantitative finance, randomness is more than a mathematical abstraction—it's the heartbeat of every model, the pulse behind every simulation. From stochastic gradient descent in deep learning to Monte Carlo simulations for risk estimation, randomness underpins much of modern financial modeling. And yet, for all our reliance on it, our tools for generating randomness remain curiously artificial—algorithms designed to simulate chance but never quite reaching its essence. As the frontier of computing begins to tap into quantum phenomena and even astronomical noise, a provocative question emerges: What if our models could draw their randomness not from code, but from the cosmos?
 
 To explore this, we must travel not just forward into quantum computing labs, but backward—two thousand years—to the cosmological modeling of ancient China. There, under vastly different paradigms, diviners used the structure of the stars to understand uncertainty. Today, as machine learning confronts the limits of pseudorandomness, it may be time to reconsider the wisdom of their approach—not as mysticism, but as a sophisticated philosophy of prediction that may still hold lessons for us.
 
@@ -92,5 +90,7 @@ We should ask ourselves:
 At stake is more than just better predictions. It’s a deeper understanding of uncertainty itself—and a recognition that, whether through the sky-charts of a Han-era diviner or the code of a Python Monte Carlo loop, our quest is the same: to find structure in the chaos, and to act wisely within it.
 
 In the end, perhaps the most powerful seed we can plant is not a number from a generator, but a renewed philosophy of what it means to model, to predict, and to know.
+
+[Read full article in Chinese with interactive features](/blogs/20250719-084902.html)
 "
 }
